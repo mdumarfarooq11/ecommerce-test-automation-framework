@@ -1,0 +1,13 @@
+# Virtual environment
+project_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyTest cache
+.pytest_cache/
+
+# IDE configs
+.vscode/
+.idea/
